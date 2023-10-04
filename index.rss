@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
+<title>fantastic0206's Git Achievements</title>
+<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Apprentice Thug (Level 3)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Let there be light</title><description>Commit without a parent.</description></item>
+<item><title>Chimney Sweeper (Level 4)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Investigator (Level 6)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+<item><title>Master Stone Mason (Level 12)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Apprentice Chimney Sweeper (Level 3)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Master Socialite (Level 11)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Master Banker (Level 8)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Merchant (Level 6)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Master Goldsmith (Level 8)</title><description>Reviewed patches before committing with git diff --cached.</description></item>
+<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Inventor (pulls)</title><description>Used a command that isn't part of the built in Git command</description></item>
+<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
+<item><title>Master Carpenter (Level        1)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
+<item><title>Master Historian (Level 8)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Investigator (Level 5)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+</channel></rss>
